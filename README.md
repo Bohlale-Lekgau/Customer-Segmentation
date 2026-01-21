@@ -12,3 +12,9 @@ Retail businesses often struggle with one-size-fits-all approaches, leading to w
   <li>Identify segments via clustering techniques like K-means on RFM (Recency, Frequency, Monetary) metrics.</li>
   <li>Evaluate segment profitability and predict churn risk within each group.</li>
   <li>Derive tailored strategies, such as upsell offers for high-potential segments</li></ul>
+</ul>
+<strong><h2>Tools used</h2></strong>
+<ul>
+  <li>Python</li>
+  <li>Jupyter notebooks</li>
+</ul>
